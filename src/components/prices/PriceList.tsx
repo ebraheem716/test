@@ -1,5 +1,5 @@
 import PriceCard from "./PriceCard";
-import type { PriceRecord } from "@/features/catalog/types";
+import type { PriceRecord } from "@/components/catalog/types";
 
 interface PriceListProps {
   items: PriceRecord[];

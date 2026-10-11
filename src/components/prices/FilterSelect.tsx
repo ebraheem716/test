@@ -5,7 +5,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
-import type { FilterOption } from "@/features/catalog/types";
+import type { FilterOption } from "@/components/catalog/types";
 
 const ALL_VALUE = " ";
 

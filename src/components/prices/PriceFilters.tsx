@@ -2,7 +2,7 @@ import { RotateCcw } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import { Card, CardContent } from "@/components/ui/card";
-import type { FilterOption, PriceFiltersValue } from "@/features/catalog/types";
+import type { FilterOption, PriceFiltersValue } from "@/components/catalog/types";
 
 import { FilterSelect } from "@/components/prices/FilterSelect";
 import { SearchFilter } from "./ProductSearch";

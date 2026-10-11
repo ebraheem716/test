@@ -1,4 +1,4 @@
-import type { PriceRecord } from "@/features/catalog/types";
+import type { PriceRecord } from "@/components/catalog/types";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent } from "@/components/ui/card";
 import { Separator } from "@/components/ui/separator";
