@@ -38,10 +38,17 @@ export default function RootLayout({
       )}
     >
       <head>
-        <meta
-          name="google-site-verification"
-          content="_54F1eq7-pB1O2ij3E7YReMtAiHyv-aO5wo0ZcCBCHc"
-        />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="msvalidate.01" content="448736B4E174A7AD617638A63866F2BE" />
+    <meta
+      name="google-site-verification"
+      content="_54F1eq7-pB1O2ij3E7YReMtAiHyv-aO5wo0ZcCBCHc"
+    />
+    <meta
+      name="google-site-verification"
+      content="g2mr_fpoECA_KR21y4aZhdiSKGulMJrb44Ga5oQTw0M"
+    />
+    
       </head>
       <body className={cn("min-h-full flex flex-col  ")}>
         <div id="t" className="transition-all duration-500" />
